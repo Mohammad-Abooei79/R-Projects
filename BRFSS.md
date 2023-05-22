@@ -1,5 +1,6 @@
 ---
 title: "Exploring the BRFSS data"
+author: "Mohammad Abooei Mehriz"
 output: 
   html_document: 
     fig_height: 4
